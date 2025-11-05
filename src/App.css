@@ -1,8 +1,10 @@
-.star-li {
+.card-body-stars {
   display: flex;
+  justify-content: flex-start;
   align-items: center;
+  margin-right: 10px;
 }
 
-.stars-count {
-  font-weight: 600;
+.star-li {
+  list-style: none;
 }
