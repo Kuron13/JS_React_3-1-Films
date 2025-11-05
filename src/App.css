@@ -1,0 +1,8 @@
+.star-li {
+  display: flex;
+  align-items: center;
+}
+
+.stars-count {
+  font-weight: 600;
+}
